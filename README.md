@@ -7,7 +7,7 @@
 ![ShowCase](https://cdn.discordapp.com/attachments/1085333982029287465/1106034088487419904/image.png)
 
 ## RealTime Video Showcase
-[![Video Description](https://player.vimeo.com/video/825694893)](https://player.vimeo.com/video/825694893)
+[![Video Description](https://img.youtube.com/vi/FLQD4SB7p5A/0.jpg)](https://www.youtube.com/watch?v=FLQD4SB7p5A)
 
 
 The Stake Crash Predictor is a tool designed to predict the next multiplier number in crash game on stake. It utilizes advanced machine learning techniques to provide predictions for crash game depending on the api data.
